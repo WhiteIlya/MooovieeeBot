@@ -1,3 +1,4 @@
 .env
 /venv/
 moviebot.db
+/__pycache__/
